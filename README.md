@@ -17,7 +17,7 @@ Python, Java, C++, JavaScript, Kotlin
 
 ### Machine Learning Stack
 
-TensorFlow/Keras (OG), MLFlow, PyTorch, AutoML, LangChain, LangIndex
+TensorFlow/Keras (OG), MLFlow, PyTorch, AutoML, LangChain, LangIndex, NLP...
 
 
 ### Database Stack + Database Managment Systems and tools
@@ -25,9 +25,21 @@ TensorFlow/Keras (OG), MLFlow, PyTorch, AutoML, LangChain, LangIndex
 MySQL, PostgreSQL, OracleSQL
 
 
-### Framework Stack
+### Web Framework Stack
 
 React (Next.js), Angular, Spring, Flutter
+
+### AI Stack
+
+GitHub Copilot, Google AI Studio, Ollama, DeepSeek, HuggingFace, LangGraph, ChatGPT
+
+### Cloud Services Stack
+
+Azure, AWS, GCP
+
+
+
+
 
 
 ## Intrests
@@ -43,20 +55,4 @@ React (Next.js), Angular, Spring, Flutter
 - Self-actualization 
 - Closly following New Tech and Research
 - Cooking
-- Swimming/Biking
-
-
-<!--
-**BojanR224/BojanR224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Exercising
