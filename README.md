@@ -1,6 +1,6 @@
 # 👋  Здраво! / Hello!  👋
 
-I'm Bojan (Bo-yan) and welcome!
+I'm Bojan and welcome!
 
 
 ## About me
