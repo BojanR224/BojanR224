@@ -1,4 +1,4 @@
-# 👋  Здраво! / Hello!  👋 <sub><sup>public hithub profile</sup></sub>
+# 👋  Здраво! / Hello!  👋 <sub><sub><sup>public github profile</sup></sub></sub>
 
 My name is Bojan and.. You've reached our limit of messages per hour. Please try again later.                             
 <sub><sup><sub><sup>Obviously a joke</sup></sub></sup></sub>
@@ -46,4 +46,4 @@ Azure, AWS
 Tech stack is always growing!
  
  
-
+<sub><sub><sup>Note: This is my public github profile, most of my projects are closed sourced (for now)</sup></sub></sub>
