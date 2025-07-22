@@ -25,7 +25,7 @@ TensorFlow/Keras (OG), MLFlow, PyTorch, AutoML, LangChain, LangIndex, NLP
 
 ### Database Stack + Database Managment Systems and tools
 
-MySQL, PostgreSQL, MongoDB, Vector Databases, OracleSQL
+* MySQL, PostgreSQL, MongoDB, Vector Databases, OracleSQL
 
 
 ### Web Framework Stack
