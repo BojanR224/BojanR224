@@ -1,9 +1,11 @@
 # 👋  Здраво! / Hello!  👋
 
-Hello my name is Bojan and.. You've reached our limit of messages per hour. Please try again later.
+Hello my name is Bojan and.. You've reached our limit of messages per hour. Please try again later. <sub><sup>Obviously a joke</sup></sub>
 
 
 ## About me (Written by me)
+
+Result-oriented software developer following agile development philosophy, excellent collaboration and communication skills, able to think creatively to combine different type of tools to solve specific problems, and great second-hand automation mindset for automating repetitive  workflows. Always leveraging the intellectual capacity of LLMs to empower me to the fullest potential.
 
 ### Academic Background
 
