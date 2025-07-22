@@ -1,6 +1,7 @@
 # 👋  Здраво! / Hello!  👋
 
-Hello my name is Bojan and.. You've reached our limit of messages per hour. Please try again later.                             <sub><sup>Obviously a joke</sup></sub>
+Hello my name is Bojan and.. You've reached our limit of messages per hour. Please try again later.                             
+<sub><sup><sub><sup>Obviously a joke</sup></sub></sup></sub>
 
 
 ## About me (Written by me)
