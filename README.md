@@ -1,6 +1,6 @@
-# 👋  Здраво! / Hello!  👋
+# 👋  Здраво! / Hello!  👋 <sub><sup>public hithub profile</sup></sub>
 
-Hello my name is Bojan and.. You've reached our limit of messages per hour. Please try again later.                             
+My name is Bojan and.. You've reached our limit of messages per hour. Please try again later.                             
 <sub><sup><sub><sup>Obviously a joke</sup></sub></sup></sub>
 
 
@@ -39,9 +39,11 @@ Google AI Studio, Ollama, DeepSeek, HuggingFace, LangGraph, ChatGPT, Mixture of 
 ### Cloud Services Stack
 
 Azure, AWS
-
-
-
+ 
+ 
+ 
+ 
 Tech stack is always growing!
-
+ 
+ 
 
