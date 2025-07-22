@@ -1,4 +1,4 @@
-# 👋  Здраво! / Hello!  👋 <sub><sub><sup>public github profile</sup></sub></sub>
+# 👋  Здраво! / Hello!  👋 
 
 My name is Bojan and.. You've reached our limit of messages per hour. Please try again later.                             
 <sub><sup><sub><sup>Obviously a joke</sup></sub></sup></sub>
