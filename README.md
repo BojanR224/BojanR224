@@ -41,3 +41,6 @@ Google AI Studio, Ollama, DeepSeek, HuggingFace, LangGraph, ChatGPT, Mixture of 
 Azure, AWS
 
 
+Tech stack is always growing!
+
+
