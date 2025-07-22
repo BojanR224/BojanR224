@@ -1,58 +1,40 @@
 # 👋  Здраво! / Hello!  👋
 
-I'm Bojan and welcome!
+Hello my name is Bojan and.. You've reached our limit of messages per hour. Please try again later.
 
 
-## About me
+## About me (Written by me)
 
 ### Academic Background
 
-B.Sc. Computer Engineering (Information Science)
+B.Sc. Computer Engineering
 
 
 ### Programming Languages
 
-Python, Java, C++, JavaScript, Kotlin
+Python, JavaScript, Java
 
 
 ### Machine Learning Stack
 
-TensorFlow/Keras (OG), MLFlow, PyTorch, AutoML, LangChain, LangIndex, NLP...
+TensorFlow/Keras (OG), MLFlow, PyTorch, AutoML, LangChain, LangIndex, NLP
 
 
 ### Database Stack + Database Managment Systems and tools
 
-MySQL, PostgreSQL, OracleSQL
+MySQL, PostgreSQL, MongoDB, Vector Databases, OracleSQL
 
 
 ### Web Framework Stack
 
-React (Next.js), Angular, Spring, Flutter
+React, Django, FastApi, Angular, Spring, Flutter
 
 ### AI Stack
 
-GitHub Copilot, Google AI Studio, Ollama, DeepSeek, HuggingFace, LangGraph, ChatGPT
+Google AI Studio, Ollama, DeepSeek, HuggingFace, LangGraph, ChatGPT, Mixture of Experts
 
 ### Cloud Services Stack
 
-Azure, AWS, GCP
+Azure, AWS
 
 
-
-
-
-
-## Intrests
-
-- Artificial intelligence and productivity enhancement tools
-- Quantum Computation  (out of this world)
-- The Global Financial System 
-- Cosmology
-- BioTechnology
-  
-## Hobbies
-
-- Self-actualization 
-- Closly following New Tech and Research
-- Cooking
-- Exercising
