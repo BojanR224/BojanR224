@@ -39,7 +39,22 @@ Result-oriented software developer following agile development philosophy, excel
 ### Cloud Services Stack
 
 * Azure, AWS
- 
+
+## Intrests
+
+- Artificial intelligence and productivity enhancement tools
+- BioTechnology
+- Quantum Technology/Computation
+- The Global Financial System 
+- Cosmology
+- BioTechnology
+  
+## Hobbies
+
+- Self-actualization 
+- Cooking
+- Exercising
+  
 |
 |
 <sub><sup>Note: This is my public github profile</sup></sub>
