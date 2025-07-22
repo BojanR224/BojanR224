@@ -10,17 +10,17 @@ Result-oriented software developer following agile development philosophy, excel
 
 ### Academic Background
 
-B.Sc. Computer Engineering
+**B.Sc. Computer Engineering**
 
 
 ### Programming Languages
 
-Python, JavaScript, Java
+* Python, JavaScript, Java
 
 
 ### Machine Learning Stack
 
-TensorFlow/Keras (OG), MLFlow, PyTorch, AutoML, LangChain, LangIndex, NLP
+* TensorFlow/Keras (OG), MLFlow, PyTorch, AutoML, LangChain, LangIndex, NLP
 
 
 ### Database Stack + Database Managment Systems and tools
@@ -30,20 +30,18 @@ TensorFlow/Keras (OG), MLFlow, PyTorch, AutoML, LangChain, LangIndex, NLP
 
 ### Web Framework Stack
 
-React, Django, FastApi, Angular, Spring, Flutter
+* React, Django, FastApi, Angular, Spring, Flutter
 
 ### AI Stack
 
-Google AI Studio, Ollama, DeepSeek, HuggingFace, LangGraph, ChatGPT, Mixture of Experts
+* Google AI Studio, Ollama, DeepSeek, HuggingFace, LangGraph, ChatGPT, Mixture of Experts
 
 ### Cloud Services Stack
 
-Azure, AWS
+* Azure, AWS
  
- 
- 
- 
-Tech stack is always growing!
- 
- 
-<sub><sub><sup>Note: This is my public github profile, most of my projects are closed sourced (for now)</sup></sub></sub>
+|
+|
+<sub><sup>Note: This is my public github profile</sup></sub>
+|
+|
