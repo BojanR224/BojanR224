@@ -1,8 +1,6 @@
 # 👋  Здраво! / Hello!  👋 
 
-My name is Bojan and.. You've reached our limit of messages per hour. Please try again later.                             
-<sub><sup><sub><sup>Obviously a joke</sup></sub></sup></sub>
-
+My name is Bojan and.. You've reached our limit of messages per hour. Please try again later.                            
 
 ## About me (Written by me)
 
@@ -55,8 +53,3 @@ Result-oriented software developer following agile development philosophy, excel
 - Cooking
 - Exercising
   
-|
-|
-<sub><sup>Note: This is my public github profile</sup></sub>
-|
-|
